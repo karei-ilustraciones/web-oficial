@@ -159,11 +159,11 @@
 
 
 .slider{
-  width: 70%;
+  width: 85%;
   margin: auto;
   overflow: hidden;
   margin-left: auto;
-  margin-top: -20px;
+  margin-top: auto;
 }
 .slider ul{
   display: flex;
