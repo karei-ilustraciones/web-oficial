@@ -88,9 +88,9 @@
   align:center;
 }
 .pictures{
-  height:600px;
+  height:550px;
   background-color: white;
-  padding-bottom:40px;
+  padding-bottom:0px;
 }
 .pictures-manga{
   width: 90%;
